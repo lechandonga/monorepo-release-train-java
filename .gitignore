@@ -37,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### 发布列车本地数据 ###
+release-train-data/
